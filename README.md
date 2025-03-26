@@ -47,3 +47,7 @@ Pool: This struct represents the revenue-sharing pool and contains:
 total_shares: The number of shares in the pool, which increases with every contribution.
 
 total_revenue: The total amount of revenue in the pool.
+
+## Contract Address
+"0x2062eafbc5afd42d1fe85bff8617e1cc441d0f1bb8c89c6434c2f98821ab9b9e"
+![Screenshot 2025-03-26 110340](https://github.com/user-attachments/assets/c0d25304-bed8-404e-a62a-32b45f69f858)
